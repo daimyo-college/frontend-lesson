@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/daimyo-college/frontend-lesson#readme",
   "dependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.2"
   }
 }
